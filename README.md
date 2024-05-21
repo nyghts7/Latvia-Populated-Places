@@ -1,3 +1,5 @@
+please credit me (nyghts) for anything you use from this
+
 population data comes from stat.gov.lv, while coordinates come from openstreetmap via overpass-turbo
 
 https://stat.gov.lv/en/about-osp
